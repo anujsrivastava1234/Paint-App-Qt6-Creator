@@ -1,0 +1,55 @@
+# ninja log v5
+1	1140	6807335302056411	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+1	1140	6807335302056411	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+1	1140	6807335302056411	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+1	1140	6807335302056411	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+1140	1227	6807335305103822	QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp	abd4846ff6e4913f
+1140	1227	6807335305103822	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp	abd4846ff6e4913f
+1234	1483	6807335307628412	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	d572c3598b99e75f
+1231	4829	6807335341177784	CMakeFiles/QtPaintExample.dir/main.cpp.obj	f441a3323300f5eb
+1227	4834	6807335341216887	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/mocs_compilation.cpp.obj	b38761de187626a6
+1237	5061	6807335343497259	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+5061	5395	6807335346792540	QtPaintExample.exe	40cdb15b730fd3a3
+0	29	0	CMakeFiles/clean.additional	baedbe210acaa455
+29	37	0	clean	577b940aee94fbd7
+0	18	0	CMakeFiles/clean.additional	baedbe210acaa455
+19	25	0	clean	577b940aee94fbd7
+4	735	6807337642730137	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+4	735	6807337642730137	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+4	735	6807337642730137	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+4	735	6807337642730137	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+736	793	6807337644386256	QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp	abd4846ff6e4913f
+736	793	6807337644386256	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp	abd4846ff6e4913f
+800	929	6807337645807660	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/EWIEGA46WW/qrc_res.cpp.obj	d572c3598b99e75f
+793	3030	6807337666815670	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/mocs_compilation.cpp.obj	b38761de187626a6
+795	3047	6807337666973071	CMakeFiles/QtPaintExample.dir/main.cpp.obj	f441a3323300f5eb
+798	3135	6807337667858019	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+3135	3356	6807337670003087	QtPaintExample.exe	40cdb15b730fd3a3
+9	296	6807338276899348	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+9	296	6807338276899348	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+9	296	6807338276899348	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+9	296	6807338276899348	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+310	2488	6807338298862710	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+2489	2723	6807338301157768	QtPaintExample.exe	40cdb15b730fd3a3
+15	252	6807339328022882	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+15	252	6807339328022882	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+15	252	6807339328022882	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+15	252	6807339328022882	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+265	2893	6807339354432387	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+2894	3149	6807339356922487	QtPaintExample.exe	40cdb15b730fd3a3
+16	926	6807342761948445	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+16	926	6807342761948445	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+16	926	6807342761948445	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+16	926	6807342761948445	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+930	4379	6807342798272616	CMakeFiles/QtPaintExample.dir/main.cpp.obj	f441a3323300f5eb
+926	4410	6807342798599587	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/mocs_compilation.cpp.obj	b38761de187626a6
+932	4567	6807342800161868	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+4567	4829	6807342802746289	QtPaintExample.exe	40cdb15b730fd3a3
+24	1309	6807347738457355	QtPaintExample_autogen/timestamp	c24ea729b297bae6
+24	1309	6807347738457355	QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+24	1309	6807347738457355	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/timestamp	c24ea729b297bae6
+24	1309	6807347738457355	E:/Works/Qt Course/Graphics and Painting/build-QtPaintExample-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/QtPaintExample_autogen/mocs_compilation.cpp	c24ea729b297bae6
+1309	5873	6807347786649937	CMakeFiles/QtPaintExample.dir/main.cpp.obj	f441a3323300f5eb
+1314	5966	6807347787583015	CMakeFiles/QtPaintExample.dir/QtPaintExample_autogen/mocs_compilation.cpp.obj	b38761de187626a6
+1317	6143	6807347789322258	CMakeFiles/QtPaintExample.dir/mainwindow.cpp.obj	e89dcb06c1f31db8
+6143	6560	6807347793425249	QtPaintExample.exe	40cdb15b730fd3a3
